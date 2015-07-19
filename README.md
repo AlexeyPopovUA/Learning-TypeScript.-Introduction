@@ -1,17 +1,17 @@
 # Learning-TypeScript.-Introduction
 # I use this repository to learn the TypeScript basics
 
-To see how HelloWorld/* works use:
+#If you want see how the HelloWorld/* works use cmd commands:
 
-tsc classes.ts
-node classes.js
+#tsc classes.ts
+#node classes.js
 
-or
+#or
 
-tsc use-utils.ts utils/utils.ts -out use-utils-combined.js
+#tsc use-utils.ts utils/utils.ts -out use-utils-combined.js
 
 
-To see how typescript-grunt works use:
+#If you want see how the typescript-grunt works use cmd commands:
 
-npm install
-grunt
+#npm install
+#grunt
