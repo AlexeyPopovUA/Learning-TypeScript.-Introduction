@@ -1,0 +1,8 @@
+typescript-grunt/.tscache
+typescript-grunt/javascript
+typescript-grunt/node_modules
+
+*.js.map
+HelloWorld/*.js
+HelloWorld/*/*.js
+.idea
